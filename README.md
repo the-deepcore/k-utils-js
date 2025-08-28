@@ -11,7 +11,7 @@ Utils components for kundigo projects
 This package belongs to Kundigo and it's supposed to remain private and to be used in kundigo's projects. Add this package to `package.json` file
 
 ```js
-"k-utils-js": "git+https://kundigo-ci:2381bb4546b420a55d62592192be6e65c201bf06@github.com/kundigo/k-utils-js.git#master",
+"k-utils-js": "git+https://github.com/the-deepcore/k-utils-js.git",
 ```
 
 Then import the components you need in your Rails App.
